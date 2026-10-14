@@ -66,7 +66,7 @@ classDiagram
 
 ## Compile and run
 
-From the project root:
+From the project root directory:
 
 ```bash
 mkdir -p out
